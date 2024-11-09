@@ -1,0 +1,86 @@
+XOM,Daily,11/7/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+RBLX,Daily,11/7/2024 12:00:00 AM,Price 53.11 (2024-11-07T00:00:00) > 51.199425 (48.91 - 53.32),SwingPointsLiveTradingStrategy,0,Long,Open
+AAL,Daily,11/7/2024 12:00:00 AM,Price 13.62 (2024-11-07T00:00:00) < 14.0679 (13.81 - 14.60),SwingPointsLiveTradingStrategy,0,Short,Open
+CHWY,Daily,11/7/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+ENB.TO,Daily,11/7/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+SU.TO,Daily,11/7/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+BNS.TO,Daily,11/7/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+RY.TO,Daily,11/7/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+SHOP.TO,Daily,11/7/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+MFC.TO,Daily,11/7/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+SLF.TO,Daily,11/7/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+MSTR,Daily,11/7/2024 12:00:00 AM,MSTR|2024-11-15|300.00C: Open Interest: 7196 (22.36%) | Trade time: 2024-11-07 15:59:52 (EST),,0,Long,Open
+SLB,Daily,11/7/2024 12:00:00 AM,SLB|2024-11-15|45.00C: Open Interest: 12613 (40.14%) | Trade time: 2024-11-07 15:50:54 (EST),,0,Long,Open
+SOFI,Daily,11/7/2024 12:00:00 AM,SOFI|2024-11-15|11.50C: Open Interest: 7644 (32.39%) | Trade time: 2024-11-07 15:59:57 (EST),,0,Long,Open
+DJT,Daily,11/7/2024 12:00:00 AM,DJT|2026-01-16|115.00C: Open Interest: 8163 (48.88%) | Trade time: 2024-11-07 15:58:47 (EST),,0,Long,Open
+TEVA,Daily,11/7/2024 12:00:00 AM,TEVA|2024-12-20|17.00P: Open Interest: 12648 (53.96%) | Trade time: 2024-11-07 15:35:54 (EST),,0,Short,Open
+GOOGL,Daily,11/7/2024 12:00:00 AM,GOOGL|2024-11-15|175.00P: Open Interest: 7751 (33.43%) | Trade time: 2024-11-07 15:58:43 (EST),,0,Short,Open
+LCID,Daily,11/7/2024 12:00:00 AM,LCID|2024-11-15|2.50C: Open Interest: 24976 (41.97%) | Trade time: 2024-11-07 15:59:42 (EST),,0,Long,Open
+T,Daily,11/7/2024 12:00:00 AM,T|2024-12-20|22.00P: Open Interest: 12619 (37.67%) | Trade time: 2024-11-07 15:59:54 (EST),,0,Short,Open
+U,Daily,11/7/2024 12:00:00 AM,U|2024-11-15|22.00C: Open Interest: 6743 (20.07%) | Trade time: 2024-11-07 15:59:21 (EST),,0,Long,Open
+GOOG,Daily,11/7/2024 12:00:00 AM,GOOG|2024-12-20|200.00C: Open Interest: 11519 (39.83%) | Trade time: 2024-11-07 15:59:31 (EST),,0,Long,Open
+CCL,Daily,11/7/2024 12:00:00 AM,CCL|2025-01-17|23.00C: Open Interest: 17909 (21.08%) | Trade time: 2024-11-07 15:42:05 (EST),,0,Long,Open
+RIVN,Daily,11/7/2024 12:00:00 AM,RIVN|2024-12-20|11.00C: Open Interest: 19844 (127.75%) | Trade time: 2024-11-07 15:59:56 (EST),,0,Long,Open
+BABA,Daily,11/7/2024 12:00:00 AM,BABA|2024-11-15|100.00C: Open Interest: 34815 (38.96%) | Trade time: 2024-11-07 15:59:55 (EST),,0,Long,Open
+KDP,Daily,11/7/2024 12:00:00 AM,KDP|2024-11-15|34.00C: Open Interest: 9092 (48.73%) | Trade time: 2024-11-07 15:59:06 (EST),,0,Long,Open
+TSM,Daily,11/7/2024 12:00:00 AM,TSM|2024-11-15|200.00C: Open Interest: 13989 (33.06%) | Trade time: 2024-11-07 15:59:38 (EST),,0,Long,Open
+GME,Daily,11/7/2024 12:00:00 AM,GME|2024-11-15|25.00C: Open Interest: 37708 (37.15%) | Trade time: 2024-11-07 15:59:57 (EST),,0,Long,Open
+NEM,Daily,11/7/2024 12:00:00 AM,NEM|2024-12-20|45.00C: Open Interest: 9849 (20.21%) | Trade time: 2024-11-07 15:55:20 (EST),,0,Long,Open
+WULF,Daily,11/7/2024 12:00:00 AM,WULF|2025-01-17|8.00C: Open Interest: 21333 (50.31%) | Trade time: 2024-11-07 15:59:18 (EST),,0,Long,Open
+NIO,Daily,11/7/2024 12:00:00 AM,NIO|2024-11-22|4.50P: Open Interest: 8733 (24.38%) | Trade time: 2024-11-07 15:58:46 (EST),,0,Short,Open
+AIG,Daily,11/7/2024 12:00:00 AM,AIG|2025-01-17|80.00C: Open Interest: 13693 (23.28%) | Trade time: 2024-11-07 15:32:34 (EST),,0,Long,Open
+ABR,Daily,11/7/2024 12:00:00 AM,ABR|2025-01-17|12.50P: Open Interest: 27620 (22.26%) | Trade time: 2024-11-07 15:23:34 (EST),,0,Short,Open
+JD,Daily,11/7/2024 12:00:00 AM,JD|2024-11-15|45.00C: Open Interest: 14777 (24.43%) | Trade time: 2024-11-07 15:59:30 (EST),,0,Long,Open
+FCX,Daily,11/7/2024 12:00:00 AM,FCX|2025-01-17|50.00C: Open Interest: 42753 (20.68%) | Trade time: 2024-11-07 15:55:13 (EST),,0,Long,Open
+AMD,Daily,11/7/2024 12:00:00 AM,AMD|2024-12-20|105.00P: Open Interest: 51816 (51.96%) | Trade time: 2024-11-07 15:44:41 (EST),,0,Short,Open
+MARA,Daily,11/7/2024 12:00:00 AM,MARA|2024-11-15|23.00C: Open Interest: 12695 (121.32%) | Trade time: 2024-11-07 15:59:47 (EST),,0,Long,Open
+COIN,Daily,11/7/2024 12:00:00 AM,COIN|2024-11-15|280.00C: Open Interest: 13044 (111.07%) | Trade time: 2024-11-07 15:59:57 (EST),,0,Long,Open
+MPW,Daily,11/7/2024 12:00:00 AM,MPW|2024-11-15|5.50C: Open Interest: 16204 (25.9%) | Trade time: 2024-11-07 15:50:04 (EST),,0,Long,Open
+CORZ,Daily,11/7/2024 12:00:00 AM,CORZ|2025-01-17|15.00C: Open Interest: 21708 (48.82%) | Trade time: 2024-11-07 15:50:26 (EST),,0,Long,Open
+INTC,Daily,11/7/2024 12:00:00 AM,INTC|2024-11-29|30.00C: Open Interest: 40910 (52.23%) | Trade time: 2024-11-07 15:57:37 (EST),,0,Long,Open
+CDE,Daily,11/7/2024 12:00:00 AM,CDE|2026-01-16|10.00C: Open Interest: 10685 (76.64%) | Trade time: 2024-11-07 15:02:15 (EST),,0,Long,Open
+LYFT,Daily,11/7/2024 12:00:00 AM,LYFT|2025-01-17|17.50C: Open Interest: 15425 (48.39%) | Trade time: 2024-11-07 15:59:59 (EST),,0,Long,Open
+GSAT,Daily,11/7/2024 12:00:00 AM,GSAT|2024-12-20|2.00C: Open Interest: 36291 (48.13%) | Trade time: 2024-11-07 15:58:34 (EST),,0,Long,Open
+SMCI,Daily,11/7/2024 12:00:00 AM,SMCI|2025-01-17|6.00P: Open Interest: 90745 (38.82%) | Trade time: 2024-11-07 15:54:06 (EST),,0,Short,Open
+C,Daily,11/7/2024 12:00:00 AM,C|2024-11-15|70.00C: Open Interest: 29518 (36.02%) | Trade time: 2024-11-07 15:49:23 (EST),,0,Long,Open
+ET,Daily,11/7/2024 12:00:00 AM,ET|2025-01-17|19.00C: Open Interest: 10735 (38.07%) | Trade time: 2024-11-07 15:40:16 (EST),,0,Long,Open
+VALE,Daily,11/7/2024 12:00:00 AM,VALE|2024-11-15|11.00C: Open Interest: 17408 (37.25%) | Trade time: 2024-11-07 15:59:22 (EST),,0,Long,Open
+TSLA,Daily,11/7/2024 12:00:00 AM,TSLA|2024-11-15|155.00P: Open Interest: 19082 (115.11%) | Trade time: 2024-11-07 15:56:04 (EST),,0,Short,Open
+APLD,Daily,11/7/2024 12:00:00 AM,APLD|2024-12-20|8.00C: Open Interest: 19576 (83.04%) | Trade time: 2024-11-07 15:50:46 (EST),,0,Long,Open
+AAPL,Daily,11/7/2024 12:00:00 AM,AAPL|2024-12-20|225.00C: Open Interest: 27159 (29.98%) | Trade time: 2024-11-07 15:59:52 (EST),,0,Long,Open
+WMT,Daily,11/7/2024 12:00:00 AM,WMT|2025-01-17|80.00P: Open Interest: 19877 (35.14%) | Trade time: 2024-11-07 15:59:35 (EST),,0,Short,Open
+LQD,Daily,11/7/2024 12:00:00 AM,LQD|2024-12-20|107.00P: Open Interest: 9623 (28.08%) | Trade time: 2024-11-07 15:14:19 (EST),,0,Short,Open
+HYG,Daily,11/7/2024 12:00:00 AM,HYG|2025-03-21|73.00P: Open Interest: 94650 (42.75%) | Trade time: 2024-11-07 11:31:23 (EST),,0,Short,Open
+GDX,Daily,11/7/2024 12:00:00 AM,GDX|2024-12-20|45.00C: Open Interest: 28059 (27.97%) | Trade time: 2024-11-07 15:57:51 (EST),,0,Long,Open
+EWZ,Daily,11/7/2024 12:00:00 AM,EWZ|2024-12-20|29.00C: Open Interest: 17576 (93.16%) | Trade time: 2024-11-07 15:00:12 (EST),,0,Long,Open
+XLF,Daily,11/7/2024 12:00:00 AM,XLF|2025-09-19|49.00P: Open Interest: 68890 (156.2%) | Trade time: 2024-11-07 14:50:48 (EST),,0,Short,Open
+XLP,Daily,11/7/2024 12:00:00 AM,XLP|2024-12-20|78.00P: Open Interest: 13023 (38.79%) | Trade time: 2024-11-07 15:45:53 (EST),,0,Short,Open
+XLE,Daily,11/7/2024 12:00:00 AM,XLE|2024-12-20|98.00C: Open Interest: 47141 (128.27%) | Trade time: 2024-11-07 16:03:03 (EST),,0,Long,Open
+SLV,Daily,11/7/2024 12:00:00 AM,SLV|2024-12-20|33.00C: Open Interest: 23693 (33.8%) | Trade time: 2024-11-07 15:59:21 (EST),,0,Long,Open
+TLT,Daily,11/7/2024 12:00:00 AM,TLT|2024-11-15|89.00P: Open Interest: 26568 (49.75%) | Trade time: 2024-11-07 15:58:48 (EST),,0,Short,Open
+IWM,Daily,11/7/2024 12:00:00 AM,IWM|2025-01-17|190.00P: Open Interest: 70970 (23.3%) | Trade time: 2024-11-07 15:59:21 (EST),,0,Short,Open
+HOOD,Daily,11/7/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+MTCH,Daily,11/7/2024 12:00:00 AM,High Option Interest With Price 31.11 (2024-11-07T00:00:00) is touching from below up trend line 31.79 (2024-07-25T00:00:00) - 34.54 (2024-09-11T00:00:00) and intersecting with previous bottoms 32.1,,0,Short,Open
+BITF,Daily,11/7/2024 12:00:00 AM,High Option Interest With Price 2.25 (2024-11-07T00:00:00) is breaking above down trend line 2.49 (2024-08-20T00:00:00) - 2.3 (2024-09-27T00:00:00),,0,Long,Open
+XPEV,Daily,11/7/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+PLTR,Daily,11/7/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+F,Daily,11/7/2024 12:00:00 AM,High Option Interest With Price 10.96 (2024-11-07T00:00:00) < 11.154825 (11.02 - 11.47),,0,Short,Open
+ARLO,Daily,11/7/2024 12:00:00 AM,High Option Interest With Price 12.16 (2024-11-07T00:00:00) is breaking above down trend line 12.79 (2024-08-27T00:00:00) - 12.02 (2024-10-17T00:00:00) and intersecting with previous tops 12.41,,0,Long,Open
+META,Daily,11/7/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+UEC,Daily,11/7/2024 12:00:00 AM,High Option Interest With Price 7.98 (2024-11-07T00:00:00) > 7.441175 (7.14 - 7.59),,0,Long,Open
+MSFT,Daily,11/7/2024 12:00:00 AM,High Option Interest With Price 425.43 (2024-11-07T00:00:00) > 413.759125 (404.92 - 412.78),,0,Long,Open
+BITO,Daily,11/7/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+KO,Daily,11/7/2024 12:00:00 AM,High Option Interest With Price 63.66 (2024-11-07T00:00:00) is breaking below up trend line 61.945 (2024-06-20T00:00:00) - 62.285 (2024-07-10T00:00:00),,0,Short,Open
+MU,Daily,11/7/2024 12:00:00 AM,High Option Interest With Price 113.41 (2024-11-07T00:00:00) > 111.19595 (107.38 - 113.06),,0,Long,Open
+AMC,Daily,11/7/2024 12:00:00 AM,High Option Interest With (O)Price 4.3 (2024-11-07T00:00:00) < 4.601025 (4.48 - 4.83),,0,Short,Open
+ASHR,Daily,11/7/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+AMZN,Daily,11/7/2024 12:00:00 AM,High Option Interest With Price 210.05 (2024-11-07T00:00:00) > 203.55035 (198.55 - 204.38),,0,Long,Open
+FXI,Daily,11/7/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+SPY,Daily,11/7/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+USO,Daily,11/7/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+BA,Daily,11/7/2024 12:00:00 AM,High Option Interest With Price 150.98 (2024-11-07T00:00:00) > 145.2077 (141.65 - 146.09),,0,Long,Open
+NVDA,Daily,11/7/2024 12:00:00 AM,High Option Interest With Price 148.88 (2024-11-07T00:00:00) > 145.154675 (141.87 - 145.46),,0,Long,Open
+KWEB,Daily,11/7/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+QQQ,Daily,11/7/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+PFE,Daily,11/7/2024 12:00:00 AM,High Option Interest With Price 27.46 (2024-11-07T00:00:00) > 27.2397 (26.56 - 27.28),,0,Long,Open
+XBI,Daily,11/7/2024 12:00:00 AM,High Option Interest With Price 103.01 (2024-11-07T00:00:00) > 101.138875 (98.55 - 101.66),,0,Long,Open

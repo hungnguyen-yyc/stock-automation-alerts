@@ -1,0 +1,17 @@
+CHWY,Daily,12/4/2024 12:00:00 AM,Price 32.9299 (2024-12-04T00:00:00) < 33.3432 (32.39 - 35.00),SwingPointsLiveTradingStrategy,0,Short,Open
+TD.TO,Daily,12/4/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+META,Daily,12/4/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+RBLX,Daily,12/4/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+CAT,Daily,12/4/2024 12:00:00 AM,Price 399.17 (2024-12-04T00:00:00) < 402.368175 (402.66 - 411.58),SwingPointsLiveTradingStrategy,0,Short,Open
+BNS.TO,Daily,12/4/2024 12:00:00 AM,Price 77.78 (2024-12-04T00:00:00) > 77.080675 (75.74 - 76.78),SwingPointsLiveTradingStrategy,0,Long,Open
+T.TO,Daily,12/4/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+CPNG,Daily,12/4/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+NKE,Daily,12/4/2024 12:00:00 AM,High Option Interest With Price 78.175 (2024-12-04T00:00:00) < 79.365825 (79.39 - 80.98),,0,Short,Open
+CSX,Daily,12/4/2024 12:00:00 AM,High Option Interest With Price 35.235 (2024-12-04T00:00:00) < 36.41715 (36.37 - 37.29),,0,Short,Open
+OPTT,Daily,12/4/2024 12:00:00 AM,High Option Interest With Price 0.4099 (2024-12-04T00:00:00) > 0.29795 (0.28 - 0.31),,0,Long,Open
+SMCI,Daily,12/4/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+NVDA,Daily,12/4/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+TLT,Daily,12/4/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+EEM,Daily,12/4/2024 12:00:00 AM,High Option Interest With Price 43.625 (2024-12-04T00:00:00) > 43.2785 (42.59 - 43.08),,0,Long,Open
+JETS,Daily,12/4/2024 12:00:00 AM,High Option Interest With Price 24.955 (2024-12-04T00:00:00) > 24.601075 (23.98 - 24.69),,0,Long,Open
+INTC,Daily,12/4/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open

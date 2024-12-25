@@ -1,0 +1,31 @@
+TSLA,Hour1,12/19/2024 2:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+GME,Hour1,12/19/2024 2:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+QQQ,Hour1,12/19/2024 3:00:00 PM,Price 516.13 (2024-12-19T15:00:00) is breaking below up trend line 496.555 (2024-11-20T10:00:00) - 501.93 (2024-11-27T12:00:00),SwingPointsLiveTradingStrategy,0,Short,Open
+META,Daily,12/19/2024 12:00:00 AM,META Enter position at 600.13 at 2024-12-19 00:00:00 after 1 bars and just crossed pivot level 592.23,SwingPointsLiveTradingStrategy,0,Long,Open
+RIOT,Daily,12/19/2024 12:00:00 AM,Price 11.19 (2024-12-19T00:00:00) < 13.9689 (13.25 - 14.98),SwingPointsLiveTradingStrategy,0,Short,Open
+CVNA,Daily,12/19/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+GOOGL,Hour1,12/19/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+NVDA,Hour1,12/19/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+GME,Hour1,12/19/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+SMCI,Hour1,12/19/2024 3:00:00 PM,Price 31.31 (2024-12-19T15:00:00) < 31.835925 (31.26 - 33.05),SwingPointsLiveTradingStrategy,0,Short,Open
+NU,Daily,12/19/2024 12:00:00 AM,High Option Interest With Price 10.335 (2024-12-19T00:00:00) < 11.154825 (10.91 - 11.71),,0,Short,Open
+QS,Daily,12/19/2024 12:00:00 AM,High Option Interest With (O)Price 4.72 (2024-12-19T00:00:00) < 5.2668 (5.13 - 5.52),,0,Short,Open
+HOOD,Daily,12/19/2024 12:00:00 AM,High Option Interest With Price 36.925 (2024-12-19T00:00:00) < 41.052825 (40.32 - 42.73),,0,Short,Open
+IBRX,Daily,12/19/2024 12:00:00 AM,High Option Interest With IBRX Enter position at 2.7 at 2024-12-19 00:00:00 after 1 bars and just crossed pivot level 2.5875,,0,Long,Open
+BA,Daily,12/19/2024 12:00:00 AM,High Option Interest With Price 177.11 (2024-12-19T00:00:00) > 171.303575 (166.31 - 173.20),,0,Long,Open
+AMD,Daily,12/19/2024 12:00:00 AM,High Option Interest With Price 118.92 (2024-12-19T00:00:00) < 124.6806 (122.06 - 130.12),,0,Short,Open
+WULF,Daily,12/19/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+CPRI,Daily,12/19/2024 12:00:00 AM,High Option Interest With Price 20.985 (2024-12-19T00:00:00) < 21.866625 (21.53 - 22.78),,0,Short,Open
+MARA,Daily,12/19/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+INVZ,Daily,12/19/2024 12:00:00 AM,High Option Interest With Price 1.05 (2024-12-19T00:00:00) < 1.324125 (1.25 - 1.42),,0,Short,Open
+EEM,Daily,12/19/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+LQD,Daily,12/19/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+EFA,Daily,12/19/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+XLF,Daily,12/19/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+ARKK,Daily,12/19/2024 12:00:00 AM,High Option Interest With Price 58.24 (2024-12-19T00:00:00) < 62.120025 (59.57 - 65.66),,0,Short,Open
+SMCI,Daily,12/19/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+IWM,Daily,12/19/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+GDX,Daily,12/19/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+HYG,Daily,12/19/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+TNA,Daily,12/19/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+EWZ,Daily,12/19/2024 12:00:00 AM,High Option Interest With EWZ Enter position at 22.905 at 2024-12-19 00:00:00 after 1 bars and just crossed pivot level 22.4225,,0,Long,Open

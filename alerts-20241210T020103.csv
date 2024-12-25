@@ -1,0 +1,20 @@
+QQQ,Hour1,12/10/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+COIN,Daily,12/10/2024 12:00:00 AM,Price 306 (2024-12-10T00:00:00) < 325.1457 (313.79 - 341.84),SwingPointsLiveTradingStrategy,0,Short,Open
+MARA,Daily,12/10/2024 12:00:00 AM,Price 22.83 (2024-12-10T00:00:00) < 24.93315 (23.07 - 27.28),SwingPointsLiveTradingStrategy,0,Short,Open
+CVNA,Daily,12/10/2024 12:00:00 AM,Price 235.1285 (2024-12-10T00:00:00) < 253.427625 (246.14 - 264.92),SwingPointsLiveTradingStrategy,0,Short,Open
+RIVN,Hour1,12/10/2024 3:00:00 PM,Price 13.855 (2024-12-10T15:00:00) < 14.14215 (13.99 - 14.55),SwingPointsLiveTradingStrategy,0,Short,Open
+SPY,Hour1,12/10/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+FRSH,Daily,12/10/2024 12:00:00 AM,High Option Interest With Price 16.345 (2024-12-10T00:00:00) < 17.2854 (17.04 - 17.92),,0,Short,Open
+QSI,Daily,12/10/2024 12:00:00 AM,High Option Interest With QSI Enter position at 2.2427 at 2024-12-10 00:00:00 after 4 bars and just crossed pivot level 1.505,,0,Long,Open
+PDD,Daily,12/10/2024 12:00:00 AM,High Option Interest With Price 104.49 (2024-12-10T00:00:00) < 110.60775 (108.74 - 114.59),,0,Short,Open
+TIGR,Daily,12/10/2024 12:00:00 AM,High Option Interest With Price 6.705 (2024-12-10T00:00:00) < 7.234425 (6.89 - 7.82),,0,Short,Open
+LCID,Daily,12/10/2024 12:00:00 AM,High Option Interest With Price 2.3595 (2024-12-10T00:00:00) < 2.5641 (2.49 - 2.70),,0,Short,Open
+GOOGL,Daily,12/10/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+GOOG,Daily,12/10/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+TSLA,Daily,12/10/2024 12:00:00 AM,High Option Interest With Price 401.67 (2024-12-10T00:00:00) > 381.68405 (364.88 - 391.30),,0,Long,Open
+AVGO,Daily,12/10/2024 12:00:00 AM,High Option Interest With Price 171.15 (2024-12-10T00:00:00) < 180.6255 (178.92 - 185.54),,0,Short,Open
+MU,Daily,12/10/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+RIOT,Daily,12/10/2024 12:00:00 AM,High Option Interest With Price 11.1207 (2024-12-10T00:00:00) < 12.11265 (11.51 - 13.09),,0,Short,Open
+NVDA,Daily,12/10/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+IWM,Daily,12/10/2024 12:00:00 AM,High Option Interest With Price 236.68 (2024-12-10T00:00:00) < 239.86215 (241.06 - 243.94),,0,Short,Open
+AMD,Daily,12/10/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open

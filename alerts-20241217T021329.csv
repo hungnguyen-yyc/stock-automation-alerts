@@ -1,0 +1,38 @@
+RIOT,Daily,12/17/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+MSFT,Hour1,12/17/2024 9:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+CHWY,Daily,12/17/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+RBLX,Hour1,12/17/2024 10:00:00 AM,Price 59.93 (2024-12-17T10:00:00) < 61.105275 (60.05 - 63.11),SwingPointsLiveTradingStrategy,0,Short,Open
+META,Hour1,12/17/2024 10:00:00 AM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+PLTR,Hour1,12/17/2024 10:00:00 AM,Price 72.62 (2024-12-17T10:00:00) < 73.529775 (72.37 - 76.37),SwingPointsLiveTradingStrategy,0,Short,Open
+MSFT,Hour1,12/17/2024 10:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+RIVN,Hour1,12/17/2024 10:00:00 AM,Price 14.98 (2024-12-17T10:00:00) < 15.362325 (15.06 - 15.84),SwingPointsLiveTradingStrategy,0,Short,Open
+GME,Hour1,12/17/2024 10:00:00 AM,GME Enter position at 31.42 at 2024-12-17 10:00:00 after 8 bars and just crossed pivot level 29.90,SwingPointsLiveTradingStrategy,0,Long,Open
+COIN,Hour1,12/17/2024 11:00:00 AM,Price 308.59 (2024-12-17T11:00:00) is breaking below up trend line 298.52 (2024-12-10T11:00:00) - 305.25 (2024-12-13T11:00:00) and intersecting with previous bottoms 297.43,SwingPointsLiveTradingStrategy,0,Short,Open
+MARA,Hour1,12/17/2024 11:00:00 AM,Price 24.325 (2024-12-17T11:00:00) < 25.1064 (24.54 - 26.12),SwingPointsLiveTradingStrategy,0,Short,Open
+RIOT,Hour1,12/17/2024 11:00:00 AM,Price 14.02 (2024-12-17T11:00:00) < 14.322825 (13.97 - 14.86),SwingPointsLiveTradingStrategy,0,Short,Open
+MSFT,Hour1,12/17/2024 11:00:00 AM,MSFT Enter position at 454.76 at 2024-12-17 11:00:00 after 8 bars and just crossed pivot level 447.075,SwingPointsLiveTradingStrategy,0,Long,Open
+META,Hour1,12/17/2024 11:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+SPY,Hour1,12/17/2024 12:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+AMD,Hour1,12/17/2024 12:00:00 PM,AMD Enter position at 127 at 2024-12-17 12:00:00 after 10 bars and just crossed pivot level 123.2325,SwingPointsLiveTradingStrategy,0,Long,Open
+RIVN,Hour1,12/17/2024 12:00:00 PM,Price 14.7634 (2024-12-17T12:00:00) < 14.9391 (14.79 - 15.36),SwingPointsLiveTradingStrategy,0,Short,Open
+NVDA,Hour1,12/17/2024 1:00:00 PM,Price 129.765 (2024-12-17T13:00:00) < 131.3532 (131.15 - 133.75),SwingPointsLiveTradingStrategy,0,Short,Open
+GME,Hour1,12/17/2024 1:00:00 PM,GME Enter position at 31.0209 at 2024-12-17 13:00:00 after 11 bars and just crossed pivot level 29.875,SwingPointsLiveTradingStrategy,0,Long,Open
+CHWY,Hour1,12/17/2024 2:00:00 PM,Price 33.4 (2024-12-17T14:00:00) < 33.5808 (33.31 - 34.63),SwingPointsLiveTradingStrategy,0,Short,Open
+RIVN,Hour1,12/17/2024 2:00:00 PM,Price 14.7483 (2024-12-17T14:00:00) < 14.9391 (14.79 - 15.36),SwingPointsLiveTradingStrategy,0,Short,Open
+META,Hour1,12/17/2024 2:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+T,Daily,12/17/2024 12:00:00 AM,High Option Interest With Price 22.835 (2024-12-17T00:00:00) is breaking below up trend line 21.79 (2024-11-12T00:00:00) - 22.64 (2024-12-02T00:00:00),,0,Short,Open
+IWM,Daily,12/17/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+META,Hour1,12/17/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+SPCE,Daily,12/17/2024 12:00:00 AM,High Option Interest With SPCE Enter position at 6.585 at 2024-12-17 00:00:00 after 1 bars and just crossed pivot level 6.1075,,0,Long,Open
+SMCI,Daily,12/17/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+COIN,Hour1,12/17/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+COIN,Daily,12/17/2024 12:00:00 AM,High Option Interest With Price 312.23 (2024-12-17T00:00:00) < 325.1457 (313.79 - 341.84),,0,Short,Open
+LCID,Daily,12/17/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+MU,Daily,12/17/2024 12:00:00 AM,High Option Interest With Price 108.61 (2024-12-17T00:00:00) > 107.41855 (104.10 - 109.51),,0,Long,Open
+CLF,Daily,12/17/2024 12:00:00 AM,High Option Interest With Price 9.925 (2024-12-17T00:00:00) < 10.075725 (9.90 - 10.36),,0,Short,Open
+MSTR,Daily,12/17/2024 12:00:00 AM,High Option Interest With Price 389.455 (2024-12-17T00:00:00) < 432.949275 (375.60 - 493.97),,0,Short,Open
+GDX,Daily,12/17/2024 12:00:00 AM,High Option Interest With Price 36.145 (2024-12-17T00:00:00) < 36.50625 (36.29 - 37.48),,0,Short,Open
+BA,Daily,12/17/2024 12:00:00 AM,High Option Interest With Price 173.38 (2024-12-17T00:00:00) > 171.1950 (166.14 - 173.10),,0,Long,Open
+NVDA,Daily,12/17/2024 12:00:00 AM,High Option Interest With Price 129.97 (2024-12-17T00:00:00) is breaking below up trend line 90.69 (2024-08-05T00:00:00) - 100.95 (2024-09-06T00:00:00),,0,Short,Open
+TNA,Daily,12/17/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+LQD,Daily,12/17/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open

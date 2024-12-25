@@ -1,0 +1,14 @@
+AMZN,Hour1,12/12/2024 3:00:00 PM,Price 228.6794 (2024-12-12T15:00:00) is breaking below up trend line 204.59 (2024-11-29T09:00:00) - 224.2002 (2024-12-10T15:00:00),SwingPointsLiveTradingStrategy,0,Short,Open
+TD,Daily,12/12/2024 12:00:00 AM,TD Enter position at 53.57 at 2024-12-12 00:00:00 after 4 bars and just crossed pivot level 52.485,SwingPointsLiveTradingStrategy,0,Long,Open
+RIVN,Hour1,12/12/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+RIOT,Hour1,12/12/2024 3:00:00 PM,Price 12.33 (2024-12-12T15:00:00) < 12.56805 (12.31 - 13.11),SwingPointsLiveTradingStrategy,0,Short,Open
+PLTR,Hour1,12/12/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+TD,Hour1,12/12/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+ARM,Daily,12/12/2024 12:00:00 AM,High Option Interest With Price 148 (2024-12-12T00:00:00) is breaking above down trend line 164.16 (2024-10-14T00:00:00) - 157.69 (2024-10-29T00:00:00) and intersecting with previous tops 147.37,,0,Long,Open
+AMD,Daily,12/12/2024 12:00:00 AM,High Option Interest With AMD Enter position at 130.6 at 2024-12-12 00:00:00 after 1 bars and just crossed pivot level 126.3475,,0,Long,Open
+URBN,Daily,12/12/2024 12:00:00 AM,High Option Interest With Price 51.77 (2024-12-12T00:00:00) > 50.452025 (47.70 - 52.59),,0,Long,Open
+DUK,Daily,12/12/2024 12:00:00 AM,High Option Interest With Price 109.16 (2024-12-12T00:00:00) < 110.45925 (110.37 - 112.66),,0,Short,Open
+EQT,Daily,12/12/2024 12:00:00 AM,High Option Interest With EQT Enter position at 45.86 at 2024-12-12 00:00:00 after 2 bars and just crossed pivot level 44.075,,0,Long,Open
+EWZ,Daily,12/12/2024 12:00:00 AM,High Option Interest With (O)Price 25.73 (2024-12-12T00:00:00) < 26.747325 (26.58 - 27.38),,0,Short,Open
+POET,Daily,12/12/2024 12:00:00 AM,High Option Interest With Price 4.35 (2024-12-12T00:00:00) < 4.9995 (4.79 - 5.33),,0,Short,Open
+AGNC,Daily,12/12/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open

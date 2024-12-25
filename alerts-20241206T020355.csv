@@ -1,0 +1,17 @@
+MSFT,Daily,12/6/2024 12:00:00 AM,High Option Interest With Price 443.055 (2024-12-06T00:00:00) > 441.933075 (433.20 - 441.72),,0,Long,Open
+CHPT,Daily,12/6/2024 12:00:00 AM,High Option Interest With Price 1.355 (2024-12-06T00:00:00) is breaking above down trend line 1.49 (2024-10-07T00:00:00) - 1.4 (2024-11-05T00:00:00) and intersecting with previous tops 1.45,,0,Long,Open
+GME,Daily,12/6/2024 12:00:00 AM,High Option Interest With Price 28.56 (2024-12-06T00:00:00) < 30.707325 (26.71 - 36.74),,0,Short,Open
+SCHW,Daily,12/6/2024 12:00:00 AM,Price 81.835 (2024-12-06T00:00:00) > 80.91615 (78.92 - 81.56),SwingPointsLiveTradingStrategy,0,Long,Open
+AAL,Daily,12/6/2024 12:00:00 AM,High Option Interest With Price 17.395 (2024-12-06T00:00:00) > 16.8771 (16.03 - 17.47),,0,Long,Open
+RIOT,Daily,12/6/2024 12:00:00 AM,Price 13.055 (2024-12-06T00:00:00) > 12.405325 (11.55 - 13.16),SwingPointsLiveTradingStrategy,0,Long,Open
+TD,Daily,12/6/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+SU.TO,Daily,12/6/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+TD.TO,Daily,12/6/2024 12:00:00 AM,Price 73.62 (2024-12-06T00:00:00) is breaking below up trend line 75.9 (2024-11-04T00:00:00) - 76.46 (2024-11-21T00:00:00) and intersecting with previous bottoms 75.13,SwingPointsLiveTradingStrategy,0,Short,Open
+BITF.TO,Daily,12/6/2024 12:00:00 AM,(O)Price 3.23 (2024-12-06T00:00:00) > 2.976975 (2.76 - 3.18),SwingPointsLiveTradingStrategy,3.23,Long,Open,2.93,0,2.9475,0.267752558772172
+RGTI,Daily,12/6/2024 12:00:00 AM,High Option Interest With Price 4.185 (2024-12-06T00:00:00) > 3.158775 (2.63 - 3.54),,0,Long,Open
+RDFN,Daily,12/6/2024 12:00:00 AM,High Option Interest With Price 9.915 (2024-12-06T00:00:00) is breaking above down trend line 11.88 (2024-11-07T00:00:00) - 10.47 (2024-11-25T00:00:00),,0,Long,Open
+TLT,Daily,12/6/2024 12:00:00 AM,High Option Interest With Price 94.325 (2024-12-06T00:00:00) > 93.765875 (92.25 - 93.44),,0,Long,Open
+ST,Daily,12/6/2024 12:00:00 AM,High Option Interest With Price 30.49 (2024-12-06T00:00:00) < 31.870575 (31.56 - 32.86),,0,Short,Open
+WULF,Daily,12/6/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+GOOGL,Daily,12/6/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+INTC,Daily,12/6/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open

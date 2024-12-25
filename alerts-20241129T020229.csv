@@ -1,0 +1,19 @@
+WULF,Daily,11/29/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+AMC,Daily,11/29/2024 12:00:00 AM,High Option Interest With Price 4.9969 (2024-11-29T00:00:00) > 4.855575 (4.62 - 5.04),,0,Long,Open
+RIVN,Daily,11/29/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+META,Daily,11/29/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+SCHW,Daily,11/29/2024 12:00:00 AM,Price 82.76 (2024-11-29T00:00:00) > 82.585175 (80.80 - 82.97),SwingPointsLiveTradingStrategy,0,Long,Open
+RIOT,Daily,11/29/2024 12:00:00 AM,Price 12.65 (2024-11-29T00:00:00) > 12.339675 (11.49 - 13.09),SwingPointsLiveTradingStrategy,0,Long,Open
+AMD,Daily,11/29/2024 12:00:00 AM,High Option Interest With Price 137.175 (2024-11-29T00:00:00) > 135.7743 (130.81 - 138.04),,0,Long,Open
+ACHR,Daily,11/29/2024 12:00:00 AM,High Option Interest With Price 9.57 (2024-11-29T00:00:00) > 7.7063 (7.29 - 8.17),,0,Long,Open
+MARA,Daily,11/29/2024 12:00:00 AM,High Option Interest With Price 27.42 (2024-11-29T00:00:00) > 25.41665 (23.01 - 27.27),,0,Long,Open
+KULR,Daily,11/29/2024 12:00:00 AM,High Option Interest With Price 1.16 (2024-11-29T00:00:00) > 0.7272 (0.56 - 0.80),,0,Long,Open
+GME,Daily,11/29/2024 12:00:00 AM,High Option Interest With Price 29.05 (2024-11-29T00:00:00) < 31.2543 (26.92 - 37.75),,0,Short,Open
+BA,Daily,11/29/2024 12:00:00 AM,High Option Interest With Price 155.44 (2024-11-29T00:00:00) is breaking above down trend line 180.7 (2024-08-19T00:00:00) - 163.44 (2024-10-21T00:00:00) and intersecting with previous tops 155.91,,0,Long,Open
+AES,Daily,11/29/2024 12:00:00 AM,High Option Interest With Price 13.04 (2024-11-29T00:00:00) > 12.8270 (12.48 - 12.91),,0,Long,Open
+NIO,Daily,11/29/2024 12:00:00 AM,High Option Interest With Price 4.48 (2024-11-29T00:00:00) > 4.32785 (4.06 - 4.53),,0,Long,Open
+TLT,Daily,11/29/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+QQQ,Daily,11/29/2024 12:00:00 AM,High Option Interest With Price 509.74 (2024-11-29T00:00:00) > 503.982425 (496.82 - 501.18),,0,Long,Open
+NVDA,Daily,11/29/2024 12:00:00 AM,High Option Interest With Price 138.25 (2024-11-29T00:00:00) > 134.246675 (128.97 - 136.60),,0,Long,Open
+SLV,Daily,11/29/2024 12:00:00 AM,High Option Interest With Price 27.92 (2024-11-29T00:00:00) > 27.5932 (26.93 - 27.72),,0,Long,Open
+MPW,Daily,11/29/2024 12:00:00 AM,High Option Interest With Price 4.39 (2024-11-29T00:00:00) > 4.264725 (4.06 - 4.35),,0,Long,Open

@@ -1,0 +1,10 @@
+WULF,Daily,12/2/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+MSFT,Daily,12/2/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+GOOGL,Daily,12/2/2024 12:00:00 AM,Price 171.8099 (2024-12-02T00:00:00) > 167.51355 (163.17 - 168.02),SwingPointsLiveTradingStrategy,0,Long,Open
+META,Daily,12/2/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+XOM,Daily,12/2/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+BITF.TO,Daily,12/2/2024 12:00:00 AM,Price 2.87 (2024-12-02T00:00:00) < 3.1482 (2.97 - 3.44),SwingPointsLiveTradingStrategy,0,Short,Open
+QCOM,Daily,12/2/2024 12:00:00 AM,High Option Interest With Price 163.225 (2024-12-02T00:00:00) > 158.244275 (153.37 - 159.87),,0,Long,Open
+RIOT,Daily,12/2/2024 12:00:00 AM,High Option Interest With Price 12.23 (2024-12-02T00:00:00) < 12.76605 (12.20 - 13.61),,0,Short,Open
+EWZ,Daily,12/2/2024 12:00:00 AM,High Option Interest With Price 25.28 (2024-12-02T00:00:00) < 25.796925 (25.57 - 26.49),,0,Short,Open
+LQD,Daily,12/2/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open

@@ -1,0 +1,32 @@
+RIVN,Hour1,12/20/2024 12:00:00 PM,Price 13.933 (2024-12-20T12:00:00) < 14.12235 (13.97 - 14.53),SwingPointsLiveTradingStrategy,0,Short,Open
+NVDA,Hour1,12/20/2024 12:00:00 PM,NVDA Enter position at 134.835 at 2024-12-20 12:00:00 after 3 bars and just crossed pivot level 132.1675,SwingPointsLiveTradingStrategy,0,Long,Open
+COIN,Hour1,12/20/2024 12:00:00 PM,Price 277.9115 (2024-12-20T12:00:00) < 281.0115 (278.23 - 288.93),SwingPointsLiveTradingStrategy,0,Short,Open
+QQQ,Hour1,12/20/2024 12:00:00 PM,QQQ Enter position at 524.38 at 2024-12-20 12:00:00 after 3 bars and just crossed pivot level 514.16,SwingPointsLiveTradingStrategy,0,Long,Open
+MARA,Hour1,12/20/2024 12:00:00 PM,Price 20.115 (2024-12-20T12:00:00) < 20.406375 (20.09 - 21.11),SwingPointsLiveTradingStrategy,0,Short,Open
+CVNA,Hour1,12/20/2024 1:00:00 PM,CVNA Enter position at 224.041 at 2024-12-20 13:00:00 after 4 bars and just crossed pivot level 218.5525,SwingPointsLiveTradingStrategy,0,Long,Open
+CHWY,Hour1,12/20/2024 1:00:00 PM,CHWY Enter position at 34.4 at 2024-12-20 13:00:00 after 12 bars and just crossed pivot level 33.92,SwingPointsLiveTradingStrategy,0,Long,Open
+RBLX,Hour1,12/20/2024 1:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+MSFT,Hour1,12/20/2024 1:00:00 PM,Price 440.175 (2024-12-20T13:00:00) < 442.60425 (445.41 - 448.00),SwingPointsLiveTradingStrategy,0,Short,Open
+PLTR,Hour1,12/20/2024 1:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+SPY,Hour1,12/20/2024 2:00:00 PM,Price 592.02 (2024-12-20T14:00:00) < 593.547075 (598.78 - 600.52),SwingPointsLiveTradingStrategy,0,Short,Open
+TSLA,Hour1,12/20/2024 2:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+GME,Hour1,12/20/2024 2:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+AAPL,Hour1,12/20/2024 2:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+GOOGL,Hour1,12/20/2024 2:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+NVDA,Hour1,12/20/2024 2:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+RBLX,Hour1,12/20/2024 2:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+CVNA,Hour1,12/20/2024 2:00:00 PM,CVNA Enter position at 223.6625 at 2024-12-20 14:00:00 after 5 bars and just crossed pivot level 218.5525,SwingPointsLiveTradingStrategy,0,Long,Open
+GOOGL,Hour1,12/20/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+MARA,Daily,12/20/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+CVNA,Daily,12/20/2024 12:00:00 AM,Price 222.64 (2024-12-20T00:00:00) < 228.98205 (220.26 - 242.57),SwingPointsLiveTradingStrategy,0,Short,Open
+GME,Hour1,12/20/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+CHWY,Daily,12/20/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+AAPL,Hour1,12/20/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+TSLA,Hour1,12/20/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+COIN,Hour1,12/20/2024 3:00:00 PM,Price 278.71 (2024-12-20T15:00:00) < 281.0115 (278.23 - 288.93),SwingPointsLiveTradingStrategy,0,Short,Open
+RBLX,Hour1,12/20/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+SPY,Hour1,12/20/2024 3:00:00 PM,Price 590.83 (2024-12-20T15:00:00) < 593.547075 (598.78 - 600.52),SwingPointsLiveTradingStrategy,0,Short,Open
+CORZ,Daily,12/20/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+MVST,Daily,12/20/2024 12:00:00 AM,High Option Interest With MVST Enter position at 1.53 at 2024-12-20 00:00:00 after 2 bars and just crossed pivot level 1.225,,0,Long,Open
+NGD,Daily,12/20/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+ARKG,Daily,12/20/2024 12:00:00 AM,High Option Interest With ARKG Enter position at 23.68 at 2024-12-20 00:00:00 after 2 bars and just crossed pivot level 22.3525,,0,Long,Open

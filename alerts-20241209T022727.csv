@@ -1,0 +1,126 @@
+AMD,Hour1,12/9/2024 10:00:00 AM,ImmediateSwingLowStrategy AMD Exit position at 133.355 at 2024-12-09 10:00:00 because the price 133.355 is below the tema 136.38201644641373,ImmediateSwingLowStrategy,133.355,Short,Close
+AAPL,Hour1,12/9/2024 10:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+NVDA,Hour1,12/9/2024 10:00:00 AM,ImmediateSwingLowStrategy NVDA Exit position at 137.97 at 2024-12-09 10:00:00 because the price 137.97 is below the tema 142.02456312988912,ImmediateSwingLowStrategy,137.97,Short,Close
+COIN,Hour1,12/9/2024 10:00:00 AM,ImmediateSwingLowStrategy COIN Exit position at 315.07 at 2024-12-09 10:00:00 because the price 315.07 is below the tema 342.55891747038606,ImmediateSwingLowStrategy,315.07,Short,Close
+MARA,Hour1,12/9/2024 10:00:00 AM,ImmediateSwingLowStrategy MARA Exit position at 24.37 at 2024-12-09 10:00:00 because the price 24.37 is below the tema 27.16763705999004,ImmediateSwingLowStrategy,24.37,Short,Close
+RIOT,Hour1,12/9/2024 10:00:00 AM,ImmediateSwingLowStrategy RIOT Exit position at 11.555 at 2024-12-09 10:00:00 because the price 11.555 is below the tema 13.098787644086515,ImmediateSwingLowStrategy,11.555,Short,Close
+CVNA,Hour1,12/9/2024 10:00:00 AM,ImmediateSwingLowStrategy CVNA Exit position at 246.88 at 2024-12-09 10:00:00 because the price 246.88 is below the tema 263.75401607270817,ImmediateSwingLowStrategy,246.88,Short,Close
+PLTR,Hour1,12/9/2024 10:00:00 AM,ImmediateSwingLowStrategy PLTR Exit position at 73.3428 at 2024-12-09 10:00:00 because the price 73.3428 is below the tema 74.09298859826544,ImmediateSwingLowStrategy,73.3428,Short,Close
+TD,Hour1,12/9/2024 10:00:00 AM,ImmediateSwingLowStrategy TD Exit position at 53.26 at 2024-12-09 10:00:00 because the price 53.26 is below the tema 54.3491598579755,ImmediateSwingLowStrategy,53.26,Short,Close
+GME,Hour1,12/9/2024 10:00:00 AM,ImmediateSwingLowStrategy GME Exit position at 28.82 at 2024-12-09 10:00:00 because the price 28.82 is below the tema 29.81980492311462,ImmediateSwingLowStrategy,28.82,Short,Close
+CHWY,Hour1,12/9/2024 10:00:00 AM,ImmediateSwingLowStrategy CHWY Exit position at 31.195 at 2024-12-09 10:00:00 because the price 31.195 is below the tema 33.64140724671287,ImmediateSwingLowStrategy,31.195,Short,Close
+META,Hour1,12/9/2024 11:00:00 AM,META Enter position at 608.0837 at 2024-12-09 11:00:00,ImmediateSwingLowStrategy,608.0837,Long,Open
+AMD,Hour1,12/9/2024 11:00:00 AM,ImmediateSwingLowStrategy AMD Exit position at 133.145 at 2024-12-09 11:00:00 because the price 133.145 is below the tema 136.19778821655538,ImmediateSwingLowStrategy,133.145,Short,Close
+AAPL,Hour1,12/9/2024 11:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+TSLA,Hour1,12/9/2024 11:00:00 AM,Price 382.28 (2024-12-09T11:00:00) < 393.740325 (393.34 - 402.84),SwingPointsLiveTradingStrategy,0,Short,Open
+NVDA,Hour1,12/9/2024 11:00:00 AM,ImmediateSwingLowStrategy NVDA Exit position at 138.2101 at 2024-12-09 11:00:00 because the price 138.2101 is below the tema 141.90553007898097,ImmediateSwingLowStrategy,138.2101,Short,Close
+COIN,Hour1,12/9/2024 11:00:00 AM,ImmediateSwingLowStrategy COIN Exit position at 317.92 at 2024-12-09 11:00:00 because the price 317.92 is below the tema 342.5774128000031,ImmediateSwingLowStrategy,317.92,Short,Close
+MARA,Hour1,12/9/2024 11:00:00 AM,ImmediateSwingLowStrategy MARA Exit position at 24.4373 at 2024-12-09 11:00:00 because the price 24.4373 is below the tema 27.144791043017058,ImmediateSwingLowStrategy,24.4373,Short,Close
+RIOT,Hour1,12/9/2024 11:00:00 AM,ImmediateSwingLowStrategy RIOT Exit position at 11.6288 at 2024-12-09 11:00:00 because the price 11.6288 is below the tema 13.072034956665659,ImmediateSwingLowStrategy,11.6288,Short,Close
+CVNA,Hour1,12/9/2024 11:00:00 AM,ImmediateSwingLowStrategy CVNA Exit position at 246.975 at 2024-12-09 11:00:00 because the price 246.975 is below the tema 263.46670899872845,ImmediateSwingLowStrategy,246.975,Short,Close
+PLTR,Hour1,12/9/2024 11:00:00 AM,ImmediateSwingLowStrategy PLTR Exit position at 71.515 at 2024-12-09 11:00:00 because the price 71.515 is below the tema 74.16796153515858,ImmediateSwingLowStrategy,71.515,Short,Close
+TD,Hour1,12/9/2024 11:00:00 AM,ImmediateSwingLowStrategy TD Exit position at 53.155 at 2024-12-09 11:00:00 because the price 53.155 is below the tema 54.29567411432101,ImmediateSwingLowStrategy,53.155,Short,Close
+GME,Hour1,12/9/2024 11:00:00 AM,ImmediateSwingLowStrategy GME Exit position at 29.74 at 2024-12-09 11:00:00 because the price 29.74 is below the tema 29.854002235601026,ImmediateSwingLowStrategy,29.74,Short,Close
+CHWY,Hour1,12/9/2024 11:00:00 AM,ImmediateSwingLowStrategy CHWY Exit position at 31.29 at 2024-12-09 11:00:00 because the price 31.29 is below the tema 33.58976166396794,ImmediateSwingLowStrategy,31.29,Short,Close
+AAPL,Hour1,12/9/2024 12:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+AMD,Hour1,12/9/2024 12:00:00 PM,ImmediateSwingLowStrategy AMD Exit position at 132.6099 at 2024-12-09 12:00:00 because the price 132.6099 is below the tema 136.00206281025416,ImmediateSwingLowStrategy,132.6099,Short,Close
+GOOGL,Hour1,12/9/2024 12:00:00 PM,GOOGL Enter position at 176.0793 at 2024-12-09 12:00:00,ImmediateSwingLowStrategy,176.0793,Long,Open
+NVDA,Hour1,12/9/2024 12:00:00 PM,ImmediateSwingLowStrategy NVDA Exit position at 139.64 at 2024-12-09 12:00:00 because the price 139.64 is below the tema 141.8383342424458,ImmediateSwingLowStrategy,139.64,Short,Close
+COIN,Hour1,12/9/2024 12:00:00 PM,ImmediateSwingLowStrategy COIN Exit position at 316 at 2024-12-09 12:00:00 because the price 316 is below the tema 342.48795107532635,ImmediateSwingLowStrategy,316,Short,Close
+MARA,Hour1,12/9/2024 12:00:00 PM,ImmediateSwingLowStrategy MARA Exit position at 24.26 at 2024-12-09 12:00:00 because the price 24.26 is below the tema 27.1124639415258,ImmediateSwingLowStrategy,24.26,Short,Close
+RIOT,Hour1,12/9/2024 12:00:00 PM,ImmediateSwingLowStrategy RIOT Exit position at 11.6369 at 2024-12-09 12:00:00 because the price 11.6369 is below the tema 13.04407087203556,ImmediateSwingLowStrategy,11.6369,Short,Close
+CVNA,Hour1,12/9/2024 12:00:00 PM,ImmediateSwingLowStrategy CVNA Exit position at 247.195 at 2024-12-09 12:00:00 because the price 247.195 is below the tema 263.2207762197151,ImmediateSwingLowStrategy,247.195,Short,Close
+PLTR,Hour1,12/9/2024 12:00:00 PM,ImmediateSwingLowStrategy PLTR Exit position at 72.4272 at 2024-12-09 12:00:00 because the price 72.4272 is below the tema 74.29159018787391,ImmediateSwingLowStrategy,72.4272,Short,Close
+TD,Hour1,12/9/2024 12:00:00 PM,ImmediateSwingLowStrategy TD Exit position at 52.99 at 2024-12-09 12:00:00 because the price 52.99 is below the tema 54.236074145312564,ImmediateSwingLowStrategy,52.99,Short,Close
+GME,Hour1,12/9/2024 12:00:00 PM,ImmediateSwingLowStrategy GME Exit position at 29.35 at 2024-12-09 12:00:00 because the price 29.35 is below the tema 29.874376218213186,ImmediateSwingLowStrategy,29.35,Short,Close
+CHWY,Hour1,12/9/2024 12:00:00 PM,ImmediateSwingLowStrategy CHWY Exit position at 31.16 at 2024-12-09 12:00:00 because the price 31.16 is below the tema 33.53474895027142,ImmediateSwingLowStrategy,31.16,Short,Close
+SMCI,Hour1,12/9/2024 12:00:00 PM,Price 46.3836 (2024-12-09T12:00:00) is breaking above down trend line 63.973 (2024-08-16T10:00:00) - 63.0815 (2024-08-22T09:00:00) and intersecting with previous tops 45.858,SwingPointsLiveTradingStrategy,0,Long,Open
+AMD,Hour1,12/9/2024 1:00:00 PM,ImmediateSwingLowStrategy AMD Exit position at 131.4 at 2024-12-09 13:00:00 because the price 131.4 is below the tema 135.77070927525642,ImmediateSwingLowStrategy,131.4,Short,Close
+NVDA,Hour1,12/9/2024 1:00:00 PM,ImmediateSwingLowStrategy NVDA Exit position at 139.09 at 2024-12-09 13:00:00 because the price 139.09 is below the tema 141.74418284830932,ImmediateSwingLowStrategy,139.09,Short,Close
+COIN,Hour1,12/9/2024 1:00:00 PM,ImmediateSwingLowStrategy COIN Exit position at 318.34 at 2024-12-09 13:00:00 because the price 318.34 is below the tema 342.41745293567976,ImmediateSwingLowStrategy,318.34,Short,Close
+MARA,Hour1,12/9/2024 1:00:00 PM,ImmediateSwingLowStrategy MARA Exit position at 24.32 at 2024-12-09 13:00:00 because the price 24.32 is below the tema 27.080167226054865,ImmediateSwingLowStrategy,24.32,Short,Close
+RIOT,Hour1,12/9/2024 1:00:00 PM,ImmediateSwingLowStrategy RIOT Exit position at 11.535 at 2024-12-09 13:00:00 because the price 11.535 is below the tema 13.012708183817622,ImmediateSwingLowStrategy,11.535,Short,Close
+CVNA,Hour1,12/9/2024 1:00:00 PM,ImmediateSwingLowStrategy CVNA Exit position at 249.06 at 2024-12-09 13:00:00 because the price 249.06 is below the tema 262.9991513206436,ImmediateSwingLowStrategy,249.06,Short,Close
+PLTR,Hour1,12/9/2024 1:00:00 PM,ImmediateSwingLowStrategy PLTR Exit position at 73.15 at 2024-12-09 13:00:00 because the price 73.15 is below the tema 74.41103880832918,ImmediateSwingLowStrategy,73.15,Short,Close
+TD,Hour1,12/9/2024 1:00:00 PM,ImmediateSwingLowStrategy TD Exit position at 52.915 at 2024-12-09 13:00:00 because the price 52.915 is below the tema 54.17654758144691,ImmediateSwingLowStrategy,52.915,Short,Close
+GME,Hour1,12/9/2024 1:00:00 PM,ImmediateSwingLowStrategy GME Exit position at 29.06 at 2024-12-09 13:00:00 because the price 29.06 is below the tema 29.885894313343197,ImmediateSwingLowStrategy,29.06,Short,Close
+CHWY,Hour1,12/9/2024 1:00:00 PM,ImmediateSwingLowStrategy CHWY Exit position at 31.08 at 2024-12-09 13:00:00 because the price 31.08 is below the tema 33.48027032507289,ImmediateSwingLowStrategy,31.08,Short,Close
+RBLX,Hour1,12/9/2024 2:00:00 PM,Price 56.97 (2024-12-09T14:00:00) > 56.8529 (54.62 - 57.70),SwingPointsLiveTradingStrategy,0,Long,Open
+AMD,Hour1,12/9/2024 2:00:00 PM,ImmediateSwingLowStrategy AMD Exit position at 130.3757 at 2024-12-09 14:00:00 because the price 130.3757 is below the tema 135.52963881722823,ImmediateSwingLowStrategy,130.3757,Short,Close
+NVDA,Hour1,12/9/2024 2:00:00 PM,ImmediateSwingLowStrategy NVDA Exit position at 138.2505 at 2024-12-09 14:00:00 because the price 138.2505 is below the tema 141.63617647298364,ImmediateSwingLowStrategy,138.2505,Short,Close
+COIN,Hour1,12/9/2024 2:00:00 PM,ImmediateSwingLowStrategy COIN Exit position at 316.265 at 2024-12-09 14:00:00 because the price 316.265 is below the tema 342.32446810965786,ImmediateSwingLowStrategy,316.265,Short,Close
+MARA,Hour1,12/9/2024 2:00:00 PM,ImmediateSwingLowStrategy MARA Exit position at 24.4471 at 2024-12-09 14:00:00 because the price 24.4471 is below the tema 27.05503575955628,ImmediateSwingLowStrategy,24.4471,Short,Close
+RIOT,Hour1,12/9/2024 2:00:00 PM,ImmediateSwingLowStrategy RIOT Exit position at 11.3188 at 2024-12-09 14:00:00 because the price 11.3188 is below the tema 12.975647009803891,ImmediateSwingLowStrategy,11.3188,Short,Close
+CVNA,Hour1,12/9/2024 2:00:00 PM,ImmediateSwingLowStrategy CVNA Exit position at 248.42 at 2024-12-09 14:00:00 because the price 248.42 is below the tema 262.79469996753687,ImmediateSwingLowStrategy,248.42,Short,Close
+PLTR,Hour1,12/9/2024 2:00:00 PM,ImmediateSwingLowStrategy PLTR Exit position at 72.83 at 2024-12-09 14:00:00 because the price 72.83 is below the tema 74.52510232996721,ImmediateSwingLowStrategy,72.83,Short,Close
+TD,Hour1,12/9/2024 2:00:00 PM,ImmediateSwingLowStrategy TD Exit position at 52.74 at 2024-12-09 14:00:00 because the price 52.74 is below the tema 54.113560919092016,ImmediateSwingLowStrategy,52.74,Short,Close
+GME,Hour1,12/9/2024 2:00:00 PM,ImmediateSwingLowStrategy GME Exit position at 28.7997 at 2024-12-09 14:00:00 because the price 28.7997 is below the tema 29.894100537783086,ImmediateSwingLowStrategy,28.7997,Short,Close
+CHWY,Hour1,12/9/2024 2:00:00 PM,ImmediateSwingLowStrategy CHWY Exit position at 31.105 at 2024-12-09 14:00:00 because the price 31.105 is below the tema 33.42745018071439,ImmediateSwingLowStrategy,31.105,Short,Close
+SPY,Hour1,12/9/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+QQQ,Hour1,12/9/2024 3:00:00 PM,Price 521.82 (2024-12-09T15:00:00) is breaking below up trend line 501.93 (2024-11-27T12:00:00) - 521.22 (2024-12-09T11:00:00),SwingPointsLiveTradingStrategy,0,Short,Open
+PFE,Daily,12/9/2024 12:00:00 AM,High Option Interest With ImmediateSwingLowStrategy PFE Exit position at 26.105 at 2024-12-09 00:00:00 because the price 26.105 is below the tema 27.38990938811326,,0,Short,Open
+GOOGL,Daily,12/9/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+CVNA,Daily,12/9/2024 12:00:00 AM,ImmediateSwingLowStrategy CVNA Exit position at 244.03 at 2024-12-09 00:00:00 because the price 244.03 is below the tema 244.8557987255754,ImmediateSwingLowStrategy,244.03,Short,Close
+TD,Daily,12/9/2024 12:00:00 AM,ImmediateSwingLowStrategy TD Exit position at 52.65 at 2024-12-09 00:00:00 because the price 52.65 is below the tema 57.12246641415948,ImmediateSwingLowStrategy,52.65,Short,Close
+CHWY,Daily,12/9/2024 12:00:00 AM,ImmediateSwingLowStrategy CHWY Exit position at 30.89 at 2024-12-09 00:00:00 because the price 30.89 is below the tema 32.837255395067096,ImmediateSwingLowStrategy,30.89,Short,Close
+AMD,Hour1,12/9/2024 3:00:00 PM,ImmediateSwingLowStrategy AMD Exit position at 130.87 at 2024-12-09 15:00:00 because the price 130.87 is below the tema 135.317029830493,ImmediateSwingLowStrategy,130.87,Short,Close
+NVDA,Hour1,12/9/2024 3:00:00 PM,ImmediateSwingLowStrategy NVDA Exit position at 138.81 at 2024-12-09 15:00:00 because the price 138.81 is below the tema 141.5513526330584,ImmediateSwingLowStrategy,138.81,Short,Close
+COIN,Hour1,12/9/2024 3:00:00 PM,ImmediateSwingLowStrategy COIN Exit position at 310.52 at 2024-12-09 15:00:00 because the price 310.52 is below the tema 342.0578484037042,ImmediateSwingLowStrategy,310.52,Short,Close
+MARA,Hour1,12/9/2024 3:00:00 PM,ImmediateSwingLowStrategy MARA Exit position at 23.855 at 2024-12-09 15:00:00 because the price 23.855 is below the tema 27.009966258659272,ImmediateSwingLowStrategy,23.855,Short,Close
+RIOT,Hour1,12/9/2024 3:00:00 PM,ImmediateSwingLowStrategy RIOT Exit position at 11.21 at 2024-12-09 15:00:00 because the price 11.21 is below the tema 12.935870333044946,ImmediateSwingLowStrategy,11.21,Short,Close
+CVNA,Hour1,12/9/2024 3:00:00 PM,ImmediateSwingLowStrategy CVNA Exit position at 244.01 at 2024-12-09 15:00:00 because the price 244.01 is below the tema 262.44187848333263,ImmediateSwingLowStrategy,244.01,Short,Close
+PLTR,Hour1,12/9/2024 3:00:00 PM,ImmediateSwingLowStrategy PLTR Exit position at 72.46 at 2024-12-09 15:00:00 because the price 72.46 is below the tema 74.62264112551063,ImmediateSwingLowStrategy,72.46,Short,Close
+TD,Hour1,12/9/2024 3:00:00 PM,ImmediateSwingLowStrategy TD Exit position at 52.65 at 2024-12-09 15:00:00 because the price 52.65 is below the tema 54.051073753851085,ImmediateSwingLowStrategy,52.65,Short,Close
+GME,Hour1,12/9/2024 3:00:00 PM,ImmediateSwingLowStrategy GME Exit position at 27.93 at 2024-12-09 15:00:00 because the price 27.93 is below the tema 29.874454558680625,ImmediateSwingLowStrategy,27.93,Short,Close
+CHWY,Hour1,12/9/2024 3:00:00 PM,ImmediateSwingLowStrategy CHWY Exit position at 30.91 at 2024-12-09 15:00:00 because the price 30.91 is below the tema 33.3712065832451,ImmediateSwingLowStrategy,30.91,Short,Close
+RIOT,Daily,12/9/2024 12:00:00 AM,RIOT|2024-12-20|11.00P: Open Interest: 8759 (74.87%) | Trade time: 2024-12-09 15:51:56 (EST),,0,Short,Open
+ET,Daily,12/9/2024 12:00:00 AM,ET|2027-01-15|22.00C: Open Interest: 11573 (20.98%) | Trade time: 2024-12-09 15:45:31 (EST),,0,Long,Open
+TSLA,Daily,12/9/2024 12:00:00 AM,TSLA|2024-12-20|340.00P: Open Interest: 13511 (20.16%) | Trade time: 2024-12-09 15:45:18 (EST),,0,Short,Open
+WMT,Daily,12/9/2024 12:00:00 AM,WMT|2024-12-20|100.00C: Open Interest: 8233 (44.36%) | Trade time: 2024-12-09 15:50:15 (EST),,0,Long,Open
+TKO,Daily,12/9/2024 12:00:00 AM,TKO|2025-03-21|120.00P: Open Interest: 24954 (37.76%) | Trade time: 2024-12-09 12:58:00 (EST),,0,Short,Open
+ORCL,Daily,12/9/2024 12:00:00 AM,ORCL|2025-01-17|190.00C: Open Interest: 8590 (56.92%) | Trade time: 2024-12-09 15:46:31 (EST),,0,Long,Open
+SQ,Daily,12/9/2024 12:00:00 AM,SQ|2024-12-20|105.00C: Open Interest: 8667 (23.71%) | Trade time: 2024-12-09 15:52:08 (EST),,0,Long,Open
+NBIS,Daily,12/9/2024 12:00:00 AM,NBIS|2024-12-20|40.00C: Open Interest: 8255 (62.4%) | Trade time: 2024-12-09 15:46:58 (EST),,0,Long,Open
+RKLB,Daily,12/9/2024 12:00:00 AM,RKLB|2025-01-17|30.00C: Open Interest: 10358 (74.41%) | Trade time: 2024-12-09 15:50:32 (EST),,0,Long,Open
+META,Daily,12/9/2024 12:00:00 AM,META|2025-01-17|650.00C: Open Interest: 12138 (60.62%) | Trade time: 2024-12-09 15:45:17 (EST),,0,Long,Open
+AMZN,Daily,12/9/2024 12:00:00 AM,AMZN|2025-01-17|235.00C: Open Interest: 20637 (39.84%) | Trade time: 2024-12-09 15:48:08 (EST),,0,Long,Open
+NIO,Daily,12/9/2024 12:00:00 AM,NIO|2024-12-20|4.50P: Open Interest: 15238 (26.98%) | Trade time: 2024-12-09 15:51:49 (EST),,0,Short,Open
+AAPL,Daily,12/9/2024 12:00:00 AM,AAPL|2024-12-27|255.00C: Open Interest: 10362 (21.92%) | Trade time: 2024-12-09 15:47:22 (EST),,0,Long,Open
+GME,Daily,12/9/2024 12:00:00 AM,GME|2024-12-20|50.00C: Open Interest: 6617 (21.12%) | Trade time: 2024-12-09 15:47:51 (EST),,0,Long,Open
+AAL,Daily,12/9/2024 12:00:00 AM,AAL|2025-01-17|19.00C: Open Interest: 13949 (175.84%) | Trade time: 2024-12-09 15:47:14 (EST),,0,Long,Open
+LUNR,Daily,12/9/2024 12:00:00 AM,LUNR|2025-03-21|15.00C: Open Interest: 6244 (20.19%) | Trade time: 2024-12-09 15:46:46 (EST),,0,Long,Open
+SOFI,Daily,12/9/2024 12:00:00 AM,SOFI|2025-01-17|16.00P: Open Interest: 14738 (31.21%) | Trade time: 2024-12-09 15:47:31 (EST),,0,Short,Open
+RBLX,Daily,12/9/2024 12:00:00 AM,RBLX|2025-03-21|60.00C: Open Interest: 10828 (94.99%) | Trade time: 2024-12-09 15:49:41 (EST),,0,Long,Open
+INTC,Daily,12/9/2024 12:00:00 AM,INTC|2024-12-20|21.00C: Open Interest: 16866 (36.76%) | Trade time: 2024-12-09 15:43:41 (EST),,0,Long,Open
+PLTR,Daily,12/9/2024 12:00:00 AM,PLTR|2025-02-21|50.00P: Open Interest: 28653 (215.67%) | Trade time: 2024-12-09 15:46:34 (EST),,0,Short,Open
+X,Daily,12/9/2024 12:00:00 AM,X|2024-12-20|32.00P: Open Interest: 13155 (46.3%) | Trade time: 2024-12-09 15:43:47 (EST),,0,Short,Open
+FXI,Daily,12/9/2024 12:00:00 AM,FXI|2024-12-20|32.00C: Open Interest: 87534 (37.76%) | Trade time: 2024-12-09 15:37:55 (EST),,0,Long,Open
+ARKK,Daily,12/9/2024 12:00:00 AM,ARKK|2025-01-17|80.00C: Open Interest: 21852 (62.06%) | Trade time: 2024-12-09 15:41:11 (EST),,0,Long,Open
+XLI,Daily,12/9/2024 12:00:00 AM,XLI|2025-03-21|135.00P: Open Interest: 43554 (295.01%) | Trade time: 2024-12-09 10:52:52 (EST),,0,Short,Open
+SPY,Daily,12/9/2024 12:00:00 AM,SPY|2025-03-21|540.00P: Open Interest: 78362 (47.11%) | Trade time: 2024-12-09 15:42:24 (EST),,0,Short,Open
+IBIT,Daily,12/9/2024 12:00:00 AM,IBIT|2025-01-17|50.00P: Open Interest: 16213 (110.18%) | Trade time: 2024-12-09 15:47:39 (EST),,0,Short,Open
+ASHR,Daily,12/9/2024 12:00:00 AM,ASHR|2025-01-17|29.00C: Open Interest: 39881 (25.76%) | Trade time: 2024-12-09 14:28:59 (EST),,0,Long,Open
+IWM,Daily,12/9/2024 12:00:00 AM,IWM|2025-01-17|228.00P: Open Interest: 60998 (32.1%) | Trade time: 2024-12-09 15:46:35 (EST),,0,Short,Open
+QQQ,Daily,12/9/2024 12:00:00 AM,QQQ|2025-01-17|505.00P: Open Interest: 26695 (20.81%) | Trade time: 2024-12-09 15:47:51 (EST),,0,Short,Open
+CORZ,Daily,12/9/2024 12:00:00 AM,High Option Interest With ImmediateSwingLowStrategy CORZ Exit position at 16.04 at 2024-12-09 00:00:00 because the price 16.04 is below the tema 16.588461942230452,,0,Short,Open
+TIGR,Daily,12/9/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+RGTI,Daily,12/9/2024 12:00:00 AM,High Option Interest With Price 4.47 (2024-12-09T00:00:00) > 3.456725 (2.86 - 3.91),,0,Long,Open
+RIVN,Daily,12/9/2024 12:00:00 AM,High Option Interest With Price 14.45 (2024-12-09T00:00:00) is breaking above down trend line 14.08 (2024-09-13T00:00:00) - 13.1 (2024-11-13T00:00:00) and intersecting with previous tops 14.74,,0,Long,Open
+NNOX,Daily,12/9/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+CHPT,Daily,12/9/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+AI,Daily,12/9/2024 12:00:00 AM,High Option Interest With Price 41.68 (2024-12-09T00:00:00) > 38.549175 (36.34 - 39.95),,0,Long,Open
+ASTS,Daily,12/9/2024 12:00:00 AM,High Option Interest With ImmediateSwingLowStrategy ASTS Exit position at 25.985 at 2024-12-09 00:00:00 because the price 25.985 is below the tema 29.097698100670094,,0,Short,Open
+LCID,Daily,12/9/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+F,Daily,12/9/2024 12:00:00 AM,High Option Interest With ImmediateSwingLowStrategy F Exit position at 10.6 at 2024-12-09 00:00:00 because the price 10.6 is below the tema 10.616259198255827,,0,Short,Open
+APA,Daily,12/9/2024 12:00:00 AM,High Option Interest With Price 22.25 (2024-12-09T00:00:00) > 21.36655 (20.63 - 21.62),,0,Long,Open
+NKLA,Daily,12/9/2024 12:00:00 AM,High Option Interest With ImmediateSwingLowStrategy NKLA Exit position at 1.51 at 2024-12-09 00:00:00 because the price 1.51 is below the tema 2.008089737800997,,0,Short,Open
+CGC,Daily,12/9/2024 12:00:00 AM,High Option Interest With ImmediateSwingLowStrategy CGC Exit position at 3.65 at 2024-12-09 00:00:00 because the price 3.65 is below the tema 4.551474798458107,,0,Short,Open
+WULF,Daily,12/9/2024 12:00:00 AM,High Option Interest With ImmediateSwingLowStrategy WULF Exit position at 7.29 at 2024-12-09 00:00:00 because the price 7.29 is below the tema 7.386230121473314,,0,Short,Open
+AMC,Daily,12/9/2024 12:00:00 AM,High Option Interest With ImmediateSwingLowStrategy AMC Exit position at 4.51 at 2024-12-09 00:00:00 because the price 4.51 is below the tema 6.711414582349459,,0,Short,Open
+AMD,Daily,12/9/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+VALE,Daily,12/9/2024 12:00:00 AM,High Option Interest With ImmediateSwingLowStrategy VALE Exit position at 9.85 at 2024-12-09 00:00:00 because the price 9.85 is below the tema 9.877729836701901,,0,Short,Open
+NVDA,Daily,12/9/2024 12:00:00 AM,High Option Interest With ImmediateSwingLowStrategy NVDA Exit position at 138.81 at 2024-12-09 00:00:00 because the price 138.81 is below the tema 146.49182359740962,,0,Short,Open
+TLT,Daily,12/9/2024 12:00:00 AM,High Option Interest With ImmediateSwingLowStrategy TLT Exit position at 93.52 at 2024-12-09 00:00:00 because the price 93.52 is below the tema 94.03533132392062,,0,Short,Open
+USO,Daily,12/9/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+EWZ,Daily,12/9/2024 12:00:00 AM,High Option Interest With ImmediateSwingLowStrategy EWZ Exit position at 25.53 at 2024-12-09 00:00:00 because the price 25.53 is below the tema 26.73967806963371,,0,Short,Open
+ST,Daily,12/9/2024 12:00:00 AM,High Option Interest With ImmediateSwingLowStrategy ST Exit position at 30.89 at 2024-12-09 00:00:00 because the price 30.89 is below the tema 32.94652864463609,,0,Short,Open

@@ -1,0 +1,16 @@
+MSFT,Hour1,12/16/2024 2:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+META,Hour1,12/16/2024 2:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+AMZN,Hour1,12/16/2024 2:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+MARA,Hour1,12/16/2024 2:00:00 PM,Price 24.7922 (2024-12-16T14:00:00) < 25.0965 (24.53 - 26.11),SwingPointsLiveTradingStrategy,0,Short,Open
+CVNA,Hour1,12/16/2024 3:00:00 PM,Price 257.58 (2024-12-16T15:00:00) is breaking above down trend line 268.3392 (2024-11-25T09:00:00) - 262.6 (2024-12-05T12:00:00) and intersecting with previous tops 257.62,SwingPointsLiveTradingStrategy,0,Long,Open
+META,Hour1,12/16/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+SMCI,Hour1,12/16/2024 3:00:00 PM,Price 33.19 (2024-12-16T15:00:00) < 33.8877 (33.20 - 35.37),SwingPointsLiveTradingStrategy,0,Short,Open
+MSFT,Hour1,12/16/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,HmaEmaPriceStrategy,0,Long,Open
+UEC,Daily,12/16/2024 12:00:00 AM,High Option Interest With Price 7.69 (2024-12-16T00:00:00) is breaking below up trend line 6.91 (2024-11-04T00:00:00) - 7.23 (2024-11-15T00:00:00),,0,Short,Open
+KWEB,Daily,12/16/2024 12:00:00 AM,High Option Interest With Price 30.88 (2024-12-16T00:00:00) < 31.712175 (31.56 - 32.50),,0,Short,Open
+IQ,Daily,12/16/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+SIRI,Daily,12/16/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+GOOGL,Daily,12/16/2024 12:00:00 AM,High Option Interest With Price 196.66 (2024-12-16T00:00:00) > 192.18785 (186.94 - 193.68),,0,Long,Open
+RIOT,Daily,12/16/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross above HMA50 && EMA50,,0,Long,Open
+KODK,Daily,12/16/2024 12:00:00 AM,High Option Interest With KODK Enter position at 7.45 at 2024-12-16 00:00:00 after 3 bars and just crossed pivot level 6.66,,0,Long,Open
+NIO,Daily,12/16/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open

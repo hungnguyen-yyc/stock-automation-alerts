@@ -1,0 +1,37 @@
+BMO.TO,Hour1,1/14/2025 1:00:00 PM,Price 140.05 is bound off above pivot level 139.20 (138.50 - 139.89),SwingPointsLiveTradingStrategy,0,Long,Open
+BITF.TO,Hour1,1/14/2025 1:00:00 PM,(Rebound (1)) Price 2.24 is bound off below pivot level 2.25 (2.24 - 2.26),SwingPointsLiveTradingStrategy,0,Short,Open
+AC.TO,Daily,1/14/2025 12:00:00 AM,Price 21.36 is bound off above pivot level 21.23 (21.13 - 21.34),SwingPointsLiveTradingStrategy,0,Long,Open
+CNQ.TO,Hour1,1/14/2025 1:00:00 PM,Price 44.83 is bound off below pivot level 45.09 (44.86 - 45.32),SwingPointsLiveTradingStrategy,0,Short,Open
+TSLA,Hour1,1/14/2025 1:00:00 PM,Price 410.855 (2025-01-14T13:00:00) is breaking above down trend line 488.5399 (2024-12-18T11:00:00) - 465.3299 (2024-12-26T09:00:00),SwingPointsLiveTradingStrategy,0,Long,Open
+NVDA,Hour1,1/14/2025 1:00:00 PM,Price 132.22 is bound off above pivot level 130.02 (129.36 - 130.67),SwingPointsLiveTradingStrategy,0,Long,Open
+META,Hour1,1/14/2025 1:00:00 PM,Price 597.69 is bound off above pivot level 587.18 (584.24 - 590.12),SwingPointsLiveTradingStrategy,0,Long,Open
+RBLX,Hour1,1/14/2025 1:00:00 PM,Price 62.65 is bound off above pivot level 61.88 (61.57 - 62.18),SwingPointsLiveTradingStrategy,0,Long,Open
+CVNA,Hour1,1/14/2025 1:00:00 PM,(Rebound (1)) Price 196.39 is bound off above pivot level 191.62 (190.66 - 192.57),SwingPointsLiveTradingStrategy,0,Long,Open
+XOM,Hour1,1/14/2025 1:00:00 PM,(Rebound (1)) Price 109.08 is bound off above pivot level 107.39 (106.85 - 107.92),SwingPointsLiveTradingStrategy,0,Long,Open
+BNS.TO,Hour1,1/14/2025 1:00:00 PM,Price 73.64 is bound off above pivot level 72.84 (72.47 - 73.20),SwingPointsLiveTradingStrategy,0,Long,Open
+SBUX,Hour1,1/14/2025 2:00:00 PM,Price 93.34 is bound off above pivot level 92.78 (92.32 - 93.25),SwingPointsLiveTradingStrategy,0,Long,Open
+MSFT,Hour1,1/14/2025 2:00:00 PM,(Rebound (1)) Price 416.62 is bound off above pivot level 414.29 (412.22 - 416.36),SwingPointsLiveTradingStrategy,0,Long,Open
+V,Hour1,1/14/2025 2:00:00 PM,Price 309.22 is bound off above pivot level 307.50 (305.96 - 309.03),SwingPointsLiveTradingStrategy,0,Long,Open
+RIOT,Hour1,1/14/2025 2:00:00 PM,Price 12.45 is bound off above pivot level 12.16 (12.10 - 12.22),SwingPointsLiveTradingStrategy,0,Long,Open
+BMO.TO,Hour1,1/14/2025 2:00:00 PM,Price 140.09 is bound off above pivot level 139.20 (138.50 - 139.89),SwingPointsLiveTradingStrategy,0,Long,Open
+BITF.TO,Hour1,1/14/2025 2:00:00 PM,Price 2.28 is bound off above pivot level 2.25 (2.24 - 2.26),SwingPointsLiveTradingStrategy,0,Long,Open
+MSFT,Daily,1/14/2025 12:00:00 AM,Price 414.11 is bound off above pivot level 410.66 (408.60 - 412.71),SwingPointsLiveTradingStrategy,0,Long,Open
+SCHW,Hour1,1/14/2025 3:00:00 PM,(Rebound (1)) Price 72.03 is bound off below pivot level 72.44 (72.08 - 72.80),SwingPointsLiveTradingStrategy,0,Short,Open
+SPY,Hour1,1/14/2025 3:00:00 PM,(Rebound (1)) Price 580.31 is bound off below pivot level 583.83 (580.91 - 586.75),SwingPointsLiveTradingStrategy,0,Short,Open
+META,Hour1,1/14/2025 3:00:00 PM,Price 592.78 is bound off below pivot level 595.92 (592.94 - 598.90),SwingPointsLiveTradingStrategy,0,Short,Open
+MARA,Daily,1/14/2025 12:00:00 AM,Price 17.29 is bound off above pivot level 16.42 (16.34 - 16.50),SwingPointsLiveTradingStrategy,0,Long,Open
+SBUX,Daily,1/14/2025 12:00:00 AM,Price 93.05 is bound off above pivot level 92.00 (91.54 - 92.45),SwingPointsLiveTradingStrategy,0,Long,Open
+BNS.TO,Daily,1/14/2025 12:00:00 AM,Price 73.59 is bound off below pivot level 74.08 (73.70 - 74.45),SwingPointsLiveTradingStrategy,0,Short,Open
+SHOP.TO,Daily,1/14/2025 12:00:00 AM,Price 145.66 is bound off above pivot level 143.11 (142.39 - 143.83),SwingPointsLiveTradingStrategy,0,Long,Open
+BITF.TO,Daily,1/14/2025 12:00:00 AM,(Rebound (1)) Price 2.25 is bound off above pivot level 2.19 (2.18 - 2.20),SwingPointsLiveTradingStrategy,0,Long,Open
+CNQ.TO,Daily,1/14/2025 12:00:00 AM,Price 45.25 (2025-01-14T00:00:00) is breaking below up trend line 43.78 (2024-09-26T00:00:00) - 45.62 (2024-11-13T00:00:00) and intersecting with previous bottoms 46.25,SwingPointsLiveTradingStrategy,0,Short,Open
+MSFT,Hour1,1/14/2025 3:00:00 PM,(Rebound (1)) Price 414.68 is bound off below pivot level 419.90 (417.80 - 422.00),SwingPointsLiveTradingStrategy,0,Short,Open
+AAPL,Hour1,1/14/2025 3:00:00 PM,(Rebound (1)) Price 232.84 is bound off below pivot level 236.03 (234.85 - 237.21),SwingPointsLiveTradingStrategy,0,Short,Open
+NVDA,Hour1,1/14/2025 3:00:00 PM,(Rebound (1)) Price 131.27 is bound off below pivot level 132.27 (131.61 - 132.93),SwingPointsLiveTradingStrategy,0,Short,Open
+AMZN,Hour1,1/14/2025 3:00:00 PM,(Rebound (1)) Price 217.43 is bound off below pivot level 219.56 (218.46 - 220.65),SwingPointsLiveTradingStrategy,0,Short,Open
+COIN,Hour1,1/14/2025 3:00:00 PM,(Rebound (1)) Price 254.18 is bound off below pivot level 258.11 (256.81 - 259.40),SwingPointsLiveTradingStrategy,0,Short,Open
+RIOT,Hour1,1/14/2025 3:00:00 PM,Price 12.26 is bound off below pivot level 12.70 (12.63 - 12.76),SwingPointsLiveTradingStrategy,0,Short,Open
+CHWY,Hour1,1/14/2025 3:00:00 PM,(Rebound (2)) Price 36.02 is bound off below pivot level 36.46 (36.28 - 36.64),SwingPointsLiveTradingStrategy,0,Short,Open
+WBA,Daily,1/14/2025 12:00:00 AM,High Option Interest With Price 12.26 (2025-01-14T00:00:00) is breaking above down trend line 11.14 (2024-08-16T00:00:00) - 11.11 (2024-10-16T00:00:00),,0,Long,Open
+X,Daily,1/14/2025 12:00:00 AM,High Option Interest With Price 36.48 is bound off above pivot level 35.65 (35.47 - 35.82),,0,Long,Open
+QQQ,Daily,1/14/2025 12:00:00 AM,High Option Interest With Price 504.66 is bound off above pivot level 498.99 (496.50 - 501.49),,0,Long,Open

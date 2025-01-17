@@ -1,0 +1,40 @@
+SPY,Hour1,1/10/2025 12:00:00 PM,Price 580.09 is bound off below pivot level 583.83 (580.91 - 586.75),SwingPointsLiveTradingStrategy,0,Short,Open
+V,Hour1,1/10/2025 12:00:00 PM,Price 306.73 (2025-01-10T12:00:00) is breaking below up trend line 306.22 (2024-11-20T13:00:00) - 306.64 (2024-12-10T09:00:00) and intersecting with previous bottoms 308.03,SwingPointsLiveTradingStrategy,0,Short,Open
+CVNA,Hour1,1/10/2025 12:00:00 PM,Price 189.99 is bound off below pivot level 191.68 (190.72 - 192.63),SwingPointsLiveTradingStrategy,0,Short,Open
+CHWY,Hour1,1/10/2025 12:00:00 PM,Price 36.42 is bound off above pivot level 35.88 (35.70 - 36.06),SwingPointsLiveTradingStrategy,0,Long,Open
+AC.TO,Hour1,1/10/2025 12:00:00 PM,Price 21.74 is bound off above pivot level 21.29 (21.18 - 21.39),SwingPointsLiveTradingStrategy,0,Long,Open
+AMZN,Hour1,1/10/2025 1:00:00 PM,(Rebound (1)) Price 218.75 is bound off below pivot level 220.05 (218.95 - 221.15),SwingPointsLiveTradingStrategy,0,Short,Open
+V,Hour1,1/10/2025 1:00:00 PM,Price 306.8 (2025-01-10T13:00:00) is breaking below up trend line 306.22 (2024-11-20T13:00:00) - 306.64 (2024-12-10T09:00:00) and intersecting with previous bottoms 308.03,SwingPointsLiveTradingStrategy,0,Short,Open
+COIN,Hour1,1/10/2025 1:00:00 PM,Price 261.69 is bound off above pivot level 258.55 (257.26 - 259.84),SwingPointsLiveTradingStrategy,0,Long,Open
+RIOT,Daily,1/10/2025 12:00:00 AM,High Option Interest With Price 12.05 is bound off below pivot level 12.13 (12.07 - 12.19),,0,Short,Open
+SCHW,Hour1,1/10/2025 1:00:00 PM,Price 72.94 is bound off above pivot level 72.44 (72.08 - 72.80),SwingPointsLiveTradingStrategy,0,Long,Open
+XOM,Hour1,1/10/2025 1:00:00 PM,(Rebound (2)) Price 106.81 is bound off below pivot level 107.37 (106.84 - 107.91),SwingPointsLiveTradingStrategy,0,Short,Open
+QQQ,Hour1,1/10/2025 1:00:00 PM,Price 510.35 is bound off above pivot level 504.43 (501.91 - 506.95),SwingPointsLiveTradingStrategy,0,Long,Open
+RY.TO,Hour1,1/10/2025 1:00:00 PM,Price 171.98 is bound off above pivot level 170.42 (169.56 - 171.27),SwingPointsLiveTradingStrategy,0,Long,Open
+BITF.TO,Hour1,1/10/2025 1:00:00 PM,(Rebound (1)) Price 2.27 is bound off above pivot level 2.25 (2.24 - 2.26),SwingPointsLiveTradingStrategy,0,Long,Open
+AAPL,Hour1,1/10/2025 2:00:00 PM,Price 237.40 is bound off above pivot level 236.03 (234.85 - 237.21),SwingPointsLiveTradingStrategy,0,Long,Open
+MSFT,Hour1,1/10/2025 2:00:00 PM,(Rebound (1)) Price 422.27 is bound off above pivot level 419.90 (417.80 - 422.00),SwingPointsLiveTradingStrategy,0,Long,Open
+SCHW,Hour1,1/10/2025 2:00:00 PM,Price 72.83 is bound off above pivot level 72.44 (72.08 - 72.80),SwingPointsLiveTradingStrategy,0,Long,Open
+TD.TO,Daily,1/10/2025 12:00:00 AM,Price 77.87 is bound off below pivot level 78.33 (77.94 - 78.72),SwingPointsLiveTradingStrategy,0,Short,Open
+SBUX,Hour1,1/10/2025 3:00:00 PM,Price 92.19 is bound off below pivot level 92.78 (92.32 - 93.25),SwingPointsLiveTradingStrategy,0,Short,Open
+META,Hour1,1/10/2025 3:00:00 PM,Price 615.86 is bound off below pivot level 627.63 (624.49 - 630.77),SwingPointsLiveTradingStrategy,0,Short,Open
+QQQ,Hour1,1/10/2025 3:00:00 PM,Price 507.21 is bound off below pivot level 512.39 (509.83 - 514.95),SwingPointsLiveTradingStrategy,0,Short,Open
+XOM,Hour1,1/10/2025 3:00:00 PM,(Rebound (2)) Price 106.55 is bound off below pivot level 107.37 (106.84 - 107.91),SwingPointsLiveTradingStrategy,0,Short,Open
+ENB.TO,Hour1,1/10/2025 3:00:00 PM,Price 62.75 (2025-01-10T15:00:00) is breaking below up trend line 59.75 (2024-12-30T10:00:00) - 61.49 (2025-01-06T15:00:00),SwingPointsLiveTradingStrategy,0,Short,Open
+BITF.TO,Hour1,1/10/2025 3:00:00 PM,(Rebound (1)) Price 2.32 is bound off above pivot level 2.25 (2.24 - 2.26),SwingPointsLiveTradingStrategy,0,Long,Open
+CNQ.TO,Hour1,1/10/2025 3:00:00 PM,(Rebound (1)) Price 47.26 is bound off below pivot level 47.87 (47.63 - 48.11),SwingPointsLiveTradingStrategy,0,Short,Open
+RIVN,Daily,1/10/2025 12:00:00 AM,High Option Interest With Price 13.85 is bound off below pivot level 14.53 (14.46 - 14.61),,0,Short,Open
+FUBO,Daily,1/10/2025 12:00:00 AM,High Option Interest With Price 5.11 is bound off below pivot level 6.12 (6.09 - 6.15),,0,Short,Open
+CVNA,Daily,1/10/2025 12:00:00 AM,High Option Interest With (Rebound (1)) Price 193.06 is bound off below pivot level 199.62 (198.62 - 200.62),,0,Short,Open
+RCAT,Daily,1/10/2025 12:00:00 AM,High Option Interest With (Rebound (1)) Price 10.03 is bound off below pivot level 12.51 (12.45 - 12.58),,0,Short,Open
+SANA,Daily,1/10/2025 12:00:00 AM,High Option Interest With Price 3.66 is bound off below pivot level 5.77 (5.74 - 5.80),,0,Short,Open
+WULF,Daily,1/10/2025 12:00:00 AM,High Option Interest With Price 5.40 is bound off below pivot level 5.90 (5.87 - 5.92),,0,Short,Open
+NEM,Daily,1/10/2025 12:00:00 AM,High Option Interest With Price 39.10 is bound off above pivot level 37.94 (37.75 - 38.13),,0,Long,Open
+INVZ,Daily,1/10/2025 12:00:00 AM,High Option Interest With Price 1.75 is bound off below pivot level 2.14 (2.13 - 2.15),,0,Short,Open
+BITO,Daily,1/10/2025 12:00:00 AM,High Option Interest With (Rebound (1)) Price 23.05 is bound off below pivot level 23.47 (23.35 - 23.58),,0,Short,Open
+NIO,Daily,1/10/2025 12:00:00 AM,High Option Interest With Price 4.17 is bound off below pivot level 4.35 (4.33 - 4.37),,0,Short,Open
+MARA,Daily,1/10/2025 12:00:00 AM,High Option Interest With Price 17.86 is bound off below pivot level 18.49 (18.39 - 18.58),,0,Short,Open
+XLU,Daily,1/10/2025 12:00:00 AM,High Option Interest With (Rebound (1)) Price 75.58 is bound off above pivot level 74.51 (74.13 - 74.88),,0,Long,Open
+SLV,Daily,1/10/2025 12:00:00 AM,High Option Interest With Price 27.61 is bound off above pivot level 27.32 (27.18 - 27.46),,0,Long,Open
+XLF,Daily,1/10/2025 12:00:00 AM,High Option Interest With Price 47.32 (2025-01-10T00:00:00) is breaking below up trend line 46.025 (2024-11-04T00:00:00) - 47.59 (2024-12-18T00:00:00),,0,Short,Open
+NVDA,Daily,1/10/2025 12:00:00 AM,High Option Interest With Price 135.94 is bound off below pivot level 144.41 (143.69 - 145.13),,0,Short,Open

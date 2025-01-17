@@ -1,0 +1,14 @@
+MSFT,Daily,12/31/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+COIN,Daily,12/31/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+RIOT,Daily,12/31/2024 12:00:00 AM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+TD,Daily,12/31/2024 12:00:00 AM,TD Enter position at 53.24 at 2024-12-31 00:00:00 after 6 bars and just crossed pivot level 52.20,SwingPointsLiveTradingStrategy,0,Long,Open
+RIVN,Hour1,12/31/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+GME,Hour1,12/31/2024 3:00:00 PM,HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,HmaEmaPriceStrategy,0,Short,Open
+WBD,Daily,12/31/2024 12:00:00 AM,High Option Interest With WBD Enter position at 10.57 at 2024-12-31 00:00:00 after 1 bars and just crossed pivot level 10.2675,,0,Long,Open
+NIO,Daily,12/31/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+OPTT,Daily,12/31/2024 12:00:00 AM,High Option Interest With Price 1.02 (2024-12-31T00:00:00) > 0.669125 (0.57 - 0.78),,0,Long,Open
+AMD,Daily,12/31/2024 12:00:00 AM,High Option Interest With Price 120.79 (2024-12-31T00:00:00) < 123.846525 (121.47 - 128.97),,0,Short,Open
+BA,Daily,12/31/2024 12:00:00 AM,High Option Interest With BA Enter position at 177 at 2024-12-31 00:00:00 after 1 bars and just crossed pivot level 169.64,,0,Long,Open
+SPY,Daily,12/31/2024 12:00:00 AM,High Option Interest With HmaEmaPriceStrategy: Price cross below HMA50 && EMA50,,0,Short,Open
+IWM,Daily,12/31/2024 12:00:00 AM,High Option Interest With IWM Enter position at 220.96 at 2024-12-31 00:00:00 after 1 bars and just crossed pivot level 217.56,,0,Long,Open
+GNW,Daily,12/31/2024 12:00:00 AM,High Option Interest With GNW Enter position at 6.99 at 2024-12-31 00:00:00 after 1 bars and just crossed pivot level 6.765,,0,Long,Open
